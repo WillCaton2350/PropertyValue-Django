@@ -1,0 +1,21 @@
+Notes
+🚫 - Calendar pop-up when the "schedule a visit" Icon is selected. 
+ + Calendar logic/functionality once a date is seleced / locked in. 
+ + There can only be one date mm/dd/yyyy 
+  * there will never be another 09/21/1997 in existence so the moment a date is blocked off on the schedule, it should be saved in the database.
+  * Possibly needs for there to be a UI visual / pop-up of the confirmation or an automated email that gets sent once the date metadata is migrated the database.
+   
+
+{$Upcoming}
+✅- Attach html, css and javascript template. 
+🚫 - Reroute the html pages. (Views, Urls and Html files)
+🚫 - Connect Django to MySQL Workbench. (Data Models, Contact Form Frontend)
+🚫 - Create Social media links
+🚫 - Create web pages for each hyperlink / button / tab 
+
+{$Tests}
+🚫 - Write automated tests for the navigation panel 
+🚫 - Write automated tests for each hyperlink / web page
+🚫 - Autofill MySQL database with dummy data. 
+ + Spam Bot 
+    * Correct and Incorrect data to the input fields / data models 
