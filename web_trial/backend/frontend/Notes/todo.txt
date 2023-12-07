@@ -8,13 +8,14 @@ Notes
 
 {$Upcoming}
 ✅- Attach html, css and javascript template. 
-🚫 - Reroute the html pages. (Views, Urls and Html files)
+✅ - Reroute the html pages. (Views, Urls and Html files)
 🚫 - Connect Django to MySQL Workbench. (Data Models, Contact Form Frontend)
 🚫 - Create Social media links
 🚫 - Create web pages for each hyperlink / button / tab 
 
 {$Tests}
-🚫 - Write automated tests for the navigation panel 
+✅ - Write automated tests for the navigation panel 
+  ✅ + The StartDriver and Browser functions are working but the navbar test isn't working
 🚫 - Write automated tests for each hyperlink / web page
 🚫 - Autofill MySQL database with dummy data. 
  + Spam Bot 
